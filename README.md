@@ -1,2 +1,1 @@
-# Flowers-Recognition-
-Using CNN selected 2
+# Selected_2-Project
